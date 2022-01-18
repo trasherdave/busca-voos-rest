@@ -1,6 +1,7 @@
 Projeto Final: Sistemas Distribuídos | API REST
 
-Sistema de Busca de Voos O sistema deve possuir tabelas para cadastro da companhia aérea, avião, cidades, estados, pilotos e voos com o respectivo preço.
+Sistema de Busca de Voos.
+O sistema deve possuir tabelas para cadastro da companhia aérea, avião, cidades, estados, pilotos e voos com o respectivo preço.
 
 Para cada avião deve ser indicada a capacidade de passageiros. Para cada voo deve ser indicada a cidade de origem e destino, data/hora de partida e chegada, número do voo, preço do bilhete, avião, piloto e companhia áerea.
 
